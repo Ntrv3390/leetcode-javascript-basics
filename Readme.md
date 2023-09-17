@@ -7,3 +7,7 @@
 ### Day 2
 
     Return Counter Function
+
+### Day 3
+
+    To Be Or Not To Be
