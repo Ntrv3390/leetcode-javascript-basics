@@ -19,3 +19,7 @@
 ### Day 5
 
     Apply Transform Over Each Element in Array
+
+### Day 6
+
+    Filter Elements from Array
