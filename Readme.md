@@ -23,3 +23,7 @@
 ### Day 6
 
     Filter Elements from Array
+
+### Day 7
+
+    Array Reduce Transformation.
