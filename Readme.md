@@ -27,3 +27,7 @@
 ### Day 7
 
     Array Reduce Transformation.
+
+### Day 8
+
+    Function Composition
