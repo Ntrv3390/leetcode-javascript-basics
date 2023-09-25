@@ -31,3 +31,7 @@
 ### Day 8
 
     Function Composition
+
+### Day 9
+
+    Return Length of Arguments Passed
