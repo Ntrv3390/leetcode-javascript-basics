@@ -35,3 +35,7 @@
 ### Day 9
 
     Return Length of Arguments Passed
+
+### Day 10
+
+    Allow One Function Call
