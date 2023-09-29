@@ -43,3 +43,7 @@
 ### Day 11
 
     Memoize
+
+### Day 12
+
+    Add Two Promises
