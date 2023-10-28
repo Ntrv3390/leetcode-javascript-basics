@@ -59,3 +59,7 @@
 ### Day 15
 
     Interval Cancellation
+
+### Day 24
+
+    Join Two Arrays By ID
